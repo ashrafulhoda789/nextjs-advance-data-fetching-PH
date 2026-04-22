@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 20.99,
+      "category": "Electronics",
+      "brand": "Sony",
+      "stock": 25,
+      "rating": 4.5,
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 89.99,
+      "category": "Wearables",
+      "brand": "Samsung",
+      "stock": 15,
+      "rating": 4.3,
+      "description": "Feature-rich smartwatch with fitness tracking.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mouse",
+      "price": 29.99,
+      "category": "Accessories",
+      "brand": "Logitech",
+      "stock": 40,
+      "rating": 4.6,
+      "description": "Ergonomic gaming mouse with customizable DPI.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "price": 45.00,
+      "category": "Audio",
+      "brand": "JBL",
+      "stock": 20,
+      "rating": 4.4,
+      "description": "Portable speaker with deep bass and long battery life.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "name": "Laptop Backpack",
+      "price": 35.50,
+      "category": "Bags",
+      "brand": "HP",
+      "stock": 30,
+      "rating": 4.2,
+      "description": "Durable backpack with padded laptop compartment.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
