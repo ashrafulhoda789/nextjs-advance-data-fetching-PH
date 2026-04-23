@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Wireless Headphones",
-      "price": 20.99,
+      "price": 39.99,
       "category": "Electronics",
       "brand": "Sony",
       "stock": 25,
@@ -35,7 +35,7 @@
     },
     {
       "id": 4,
-      "name": "Bluetooth Speaker",
+      "name": "Bluetooth Mini Speaker",
       "price": 45.00,
       "category": "Audio",
       "brand": "JBL",
