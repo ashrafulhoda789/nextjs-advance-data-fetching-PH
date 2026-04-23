@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Wireless Headphones",
+      "name": "Wireless RGB Headphones",
       "price": 39.99,
       "category": "Electronics",
       "brand": "Sony",
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "name": "Gaming Mouse",
+      "name": "Gaming Wireless Mouse",
       "price": 29.99,
       "category": "Accessories",
       "brand": "Logitech",
@@ -53,6 +53,63 @@
       "stock": 30,
       "rating": 4.2,
       "description": "Durable backpack with padded laptop compartment.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 15.99,
+      "category": "Self Development",
+      "rating": 4.8,
+      "stock": 20,
+      "description": "A practical guide to building good habits and breaking bad ones.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 29.99,
+      "category": "Programming",
+      "rating": 4.7,
+      "stock": 12,
+      "description": "A handbook of agile software craftsmanship.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt & David Thomas",
+      "price": 25.50,
+      "category": "Programming",
+      "rating": 4.9,
+      "stock": 10,
+      "description": "Essential tips and practices for modern software developers.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "price": 12.99,
+      "category": "Finance",
+      "rating": 4.6,
+      "stock": 18,
+      "description": "Lessons on money, investing, and financial independence.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 18.75,
+      "category": "Productivity",
+      "rating": 4.7,
+      "stock": 14,
+      "description": "Rules for focused success in a distracted world.",
       "image": "https://via.placeholder.com/150"
     }
   ]
